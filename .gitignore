@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# PyTest Cache
+.pytest_cache/
+
+# Test Reports
+reports/*.html
+
+# Log Files
+reports/*.log
+
+# Generated Screenshots
+screenshots/*.png
+
+# IDE Settings
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python Packaging
+*.egg-info/
+dist/
+build/
+
+# Test credentials
+test_data/login_data.csv
